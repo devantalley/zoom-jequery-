@@ -10,3 +10,6 @@ body {
 }
 
 /* Your Awesome Scripts */
+img {
+  border:10px solid red;
+}
